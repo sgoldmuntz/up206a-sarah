@@ -1,1 +1,1 @@
-# up206a-sarah
+I'm a 2nd year MPP candidate at Luskin interested in energy policy and grid ddecarbonization. This course is geared at introducing students with using spatial/geographic data in policy applications. Through this course, I hope to be able to effectively use spatial analysis in future energy research. 
